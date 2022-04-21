@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 周天天
+name_pronunciation: Shirley Zhou
 
 # Is this the primary user of the site?
 superuser: true
